@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="gemjy:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="gemjy.war">
+      <element id="artifact" artifact-name="gemjy:war exploded" />
+    </root>
+  </artifact>
+</component>
